@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+
+
+body{
+    background-image: url(https://p325k7wa.twic.pics/high/elden-ring/elden-ring/05-characters/elden-ring-characters-gallery-background.jpg?twic=v1/cover-min=820x959);
+    background-attachment: fixed;
+    background-position: center;  
+
+    font-family: 'Gentium Book Plus', serif;
+    font-size: 1.2rem;
+}
+
+.titulo{
+    margin: 80px;
+}
+
+.logonav{
+    width: 200px;
+}
+
